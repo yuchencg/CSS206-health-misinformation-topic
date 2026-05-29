@@ -7,3 +7,7 @@ scikit-learn
 scipy
 wordcloud
 openpyxl
+bertopic
+umap-learn
+hdbscan
+sentence-transformers
