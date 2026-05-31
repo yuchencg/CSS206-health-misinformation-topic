@@ -1,0 +1,4 @@
+Time Window,LDA Dominant Topic,LDA Top Terms,BERTopic Dominant Topic,BERTopic Top Terms
+2017-2018,Topic 6,"child, separate, positive, health, insurance, vaccine",Topic 1,"vaccine, aluminum, child, brain, death, separate"
+2019-2020,Topic 6,"child, age, rate, almost, covid, insurance",Topic 1,"vaccine, covid, child, age, death, trump"
+2021-2022,Topic 1,"mask, vaccinated, covid, vaccine, hydroxychloroquine, fauci",Topic 1,"vaccine, covid, mask, vaccinated, immunity, death"
